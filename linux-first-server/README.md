@@ -40,3 +40,16 @@ A normal user cannot run administrative commands without sudo permissions.
 
 Solution:
 Mounted ISO in VirtualBox storage settings.(downleaded 'ubuntu server')
+
+
+# SSH and nginx
+
+## Learned
+- Remote server access with SSH
+- nginx web server setup
+- systemctl service management
+- basic networking
+
+## Tested
+- Connected from Windows to Ubuntu Server
+- Accessed nginx from browser
